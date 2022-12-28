@@ -39,7 +39,7 @@ Last change:
 
 How to start: 
 
-1. git clone https://github.com/danielgreen229/whatsraw.git
+1. git clone https://github.com/Superiorist/whatsraw
 2. cd whatsraw
 3. npm i
 4. npm run serve
